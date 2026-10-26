@@ -1,4 +1,4 @@
-![Harmony RustEdit Extension](banner.png)
+   ![Harmony RustEdit Extension](preview.png)
 
 <p align="center">
   <a href="https://github.com/Bunnyyy112/Harmony-RustEdit-Extension/releases/latest"><b>⬇️ DOWNLOAD LATEST RELEASE</b></a>
